@@ -1,7 +1,8 @@
 # <div align="center">:wave: **Sejam bem-vindos ao meu GitHub** :rocket:</div>
 
-  
-### Sobre mim:
+
+
+### :raising_hand_man: Sobre mim :zap::
 
 * :wave: Me chamo **Robert Koch**, tenho 22 anos.
 
@@ -15,9 +16,9 @@
 
 * :basketball: Extras: Jogava muito basquetebol! (Há muito tempo :laughing:)
 
-
-
 ---
+
+
 
 ### :zap: Habilidades:
 
@@ -31,3 +32,16 @@
 
 ![EclipseIDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?&logo=eclipse%20IDE&logoColor=FFFFFF), ![NetBeans](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-1B6AC6?&logo=apache%20NetBeans%20IDE&logoColor=FFFFFF), ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual%20studio%20code&logoColor=FFFFFF), ![XAMPP](https://img.shields.io/badge/-xampp-FB7A24?&logo=xampp&logoColor=FFFFFF), ![Linux](https://img.shields.io/badge/-linux-FCC624?&logo=linux&logoColor=000000), ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?&logo=PyCharm&logoColor=FFFFFF), ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF), ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=FFFFFF)
 
+
+
+---
+
+### :white_check_mark: Entre em contato! :speech_balloon:
+
+linkedin gmail facebook
+
+![Linkedin](https://img.shields.io/badge/-LinkedIn0A66C2?&logo=linkedin&logoColor=FFFFFF)
+
+![Gmail](https://img.shields.io/badge/-robertkoch117@gmail.com-EA4335?&logo=gmail&logoColor=FFFFFF)
+
+![Outlook](https://img.shields.io/badge/-rkoch117@outlook.com.br-0078D4?&logo=microsoft%20outlook&logoColor=FFFFFF)
