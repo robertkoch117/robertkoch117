@@ -1,4 +1,4 @@
-# :wave: **Sejam bem-vindos ao meu GitHub** :rocket:
+# <div align="center">:wave: **Sejam bem-vindos ao meu GitHub** :rocket:</div>
 
 
 
@@ -26,7 +26,7 @@ Java, C, C++, C#, Python, Git, HTML5, CSS, Javascript,
 
 ### 📦 Databases:
 
-MySQL, MicrosoftSQLServer, SQLite
+MySQL, Microsoft SQL Server, SQLite
 
 ### 🧰 Ferramentas:
 
