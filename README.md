@@ -1,16 +1,19 @@
-### Hi there 👋
+# :wave: **Sejam bem-vindos ao meu GitHub** :rocket:
 
-<!--
-**robertkoch117/robertkoch117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Sobre mim:
+
+* :wave: Me chamo **Robert Koch**, tenho 22 anos.
+
+* :pushpin: Do Rio de Janeiro, Brasil.
+
+* :mortar_board: Sou graduado em Ciência da Computação e possuo diversas certificações de **Cursos Online** diversos.
+
+* :speech_balloon: Pergunte-me sobre Java, posso te ajudar!
+
+* :computer: Pesquisas: [**Desenvolvimento De Um Sistema De Computador Para Controle De Acesso Utilizando Reconhecimento Facial Para Ambientes Virtuais**](https://drive.google.com/file/d/1H_PiiDfDImIXIITSkZNfgZ40AHEfzsfu/view?usp=sharing), desenvolvido totalmente em **Java**.
+
+* [TCC Ciencia da Computacao_Robert Almeida Koch.pdf - Google Drive](https://drive.google.com/file/d/1H_PiiDfDImIXIITSkZNfgZ40AHEfzsfu/view?usp=sharing)
+
+* :basketball: Extras: Jogava muito basquetebol! (Há muito tempo :laughing:)
