@@ -18,6 +18,8 @@
 
 
 
+---
+
 ### :zap: Habilidades:
 
 Java, C, C++, C#, Python, Git, HTML5, CSS, Javascript, 
