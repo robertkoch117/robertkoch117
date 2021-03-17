@@ -1,7 +1,5 @@
 # :wave: **Sejam bem-vindos ao meu GitHub** :rocket:
 
-
-
 #### Sobre mim:
 
 * :wave: Me chamo **Robert Koch**, tenho 22 anos.
@@ -13,7 +11,5 @@
 * :speech_balloon: Pergunte-me sobre Java, posso te ajudar!
 
 * :computer: Pesquisas: [**Desenvolvimento De Um Sistema De Computador Para Controle De Acesso Utilizando Reconhecimento Facial Para Ambientes Virtuais**](https://drive.google.com/file/d/1H_PiiDfDImIXIITSkZNfgZ40AHEfzsfu/view?usp=sharing), desenvolvido totalmente em **Java**.
-
-* [TCC Ciencia da Computacao_Robert Almeida Koch.pdf - Google Drive](https://drive.google.com/file/d/1H_PiiDfDImIXIITSkZNfgZ40AHEfzsfu/view?usp=sharing)
 
 * :basketball: Extras: Jogava muito basquetebol! (Há muito tempo :laughing:)
