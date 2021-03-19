@@ -22,7 +22,7 @@
 
 ### :zap: Habilidades:
 
-![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=FFFFFF), ![C](https://img.shields.io/badge/-Language%20C-A8B9CC?&logo=C&logoColor=FFFFFF), ![C++](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&logoColor=FFFFFF), ![C#](https://img.shields.io/badge/-C%20sharp-239120?&logo=c%20sharp&logoColor=FFFFFF), ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF), ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=FFFFFF), ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF), ![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=CSS&logoColor=FFFFFF), ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=javascript&logoColor=000000) 
+![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=FFFFFF), ![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=php&logoColor=FFFFFF), ![C](https://img.shields.io/badge/-Language%20C-A8B9CC?&logo=C&logoColor=FFFFFF), ![C++](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&logoColor=FFFFFF), ![C#](https://img.shields.io/badge/-C%20sharp-239120?&logo=c%20sharp&logoColor=FFFFFF), ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF), ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=FFFFFF), ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF), ![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=CSS&logoColor=FFFFFF), ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=javascript&logoColor=000000) 
 
 ### 📦 Databases:
 
@@ -30,7 +30,7 @@
 
 ### 🧰 Ferramentas:
 
-![EclipseIDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?&logo=eclipse%20IDE&logoColor=FFFFFF), ![NetBeans](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-1B6AC6?&logo=apache%20NetBeans%20IDE&logoColor=FFFFFF), ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual%20studio%20code&logoColor=FFFFFF), ![XAMPP](https://img.shields.io/badge/-xampp-FB7A24?&logo=xampp&logoColor=FFFFFF), ![Linux](https://img.shields.io/badge/-linux-FCC624?&logo=linux&logoColor=000000), ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?&logo=PyCharm&logoColor=FFFFFF), ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF), ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=FFFFFF)
+![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?&logo=wordpress&logoColor=FFFFFF), ![EclipseIDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?&logo=eclipse%20IDE&logoColor=FFFFFF), ![Unity](https://img.shields.io/badge/-Unity-000000?&logo=unity&logoColor=FFFFFF), ![NetBeans](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-1B6AC6?&logo=apache%20NetBeans%20IDE&logoColor=FFFFFF), ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual%20studio%20code&logoColor=FFFFFF), ![XAMPP](https://img.shields.io/badge/-xampp-FB7A24?&logo=xampp&logoColor=FFFFFF), ![Linux](https://img.shields.io/badge/-linux-FCC624?&logo=linux&logoColor=000000), ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?&logo=PyCharm&logoColor=FFFFFF), ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF), ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=FFFFFF)
 
 
 
