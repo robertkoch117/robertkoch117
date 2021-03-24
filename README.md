@@ -1,7 +1,6 @@
 # <div align="center">:wave: **Sejam bem-vindos ao meu GitHub** :rocket:</div>
 
 
-
 ### :raising_hand_man: Sobre mim :zap::
 
 * :wave: Me chamo **Robert Koch**, tenho 22 anos.
@@ -33,6 +32,9 @@
 
 ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?&logo=wordpress&logoColor=FFFFFF), ![EclipseIDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?&logo=eclipse%20IDE&logoColor=FFFFFF), ![Unity](https://img.shields.io/badge/-Unity-000000?&logo=unity&logoColor=FFFFFF), ![NetBeans](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-1B6AC6?&logo=apache%20NetBeans%20IDE&logoColor=FFFFFF), ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual%20studio%20code&logoColor=FFFFFF), ![XAMPP](https://img.shields.io/badge/-xampp-FB7A24?&logo=xampp&logoColor=FFFFFF), ![Linux](https://img.shields.io/badge/-linux-FCC624?&logo=linux&logoColor=000000), ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?&logo=PyCharm&logoColor=FFFFFF), ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF), ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=FFFFFF)
 
+### :star2: Estatísticas Gerais
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertkoch117&hide=stars,issues,prs,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
