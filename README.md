@@ -38,6 +38,7 @@
 
 ### :chart_with_upwards_trend: Habilidades mais usadas
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertkoch117)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
