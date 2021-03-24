@@ -36,6 +36,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertkoch117&hide=stars,issues,prs,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### :chart_with_upwards_trend: Habilidades mais usadas
+
+
 
 ---
 
