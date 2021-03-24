@@ -28,11 +28,11 @@
 
 ### 📦 Databases:
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=FFFFFF), ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&logo=microsoft%20sql%20server&logoColor=FFFFFF) ,![SQLite](https://img.shields.io/badge/-SQLite-003B57?&logo=sqlite&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=FFFFFF) ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&logo=microsoft%20sql%20server&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?&logo=sqlite&logoColor=FFFFFF)
 
 ### 🧰 Ferramentas:
 
-![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?&logo=wordpress&logoColor=FFFFFF), ![EclipseIDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?&logo=eclipse%20IDE&logoColor=FFFFFF), ![Unity](https://img.shields.io/badge/-Unity-000000?&logo=unity&logoColor=FFFFFF), ![NetBeans](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-1B6AC6?&logo=apache%20NetBeans%20IDE&logoColor=FFFFFF), ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual%20studio%20code&logoColor=FFFFFF), ![XAMPP](https://img.shields.io/badge/-xampp-FB7A24?&logo=xampp&logoColor=FFFFFF), ![Linux](https://img.shields.io/badge/-linux-FCC624?&logo=linux&logoColor=000000), ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?&logo=PyCharm&logoColor=FFFFFF), ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF), ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=FFFFFF)
+![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?&logo=wordpress&logoColor=FFFFFF) ![EclipseIDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?&logo=eclipse%20IDE&logoColor=FFFFFF) ![Unity](https://img.shields.io/badge/-Unity-000000?&logo=unity&logoColor=FFFFFF) ![NetBeans](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-1B6AC6?&logo=apache%20NetBeans%20IDE&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=visual%20studio%20code&logoColor=FFFFFF) ![XAMPP](https://img.shields.io/badge/-xampp-FB7A24?&logo=xampp&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-linux-FCC624?&logo=linux&logoColor=000000) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?&logo=PyCharm&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=FFFFFF)
 
 ### :star2: Estatísticas Gerais
 
