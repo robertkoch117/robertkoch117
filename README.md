@@ -45,4 +45,4 @@
 
 ### :white_check_mark: Entre em contato! :speech_balloon:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-koch-rj117/)](https://www.linkedin.com/in/robert-koch-rj117/) [![Gmail](https://img.shields.io/badge/-robertkoch117@gmail.com-EA4335?&logo=gmail&logoColor=FFFFFF&link=mailto:robertkoch117@gmail.com)](mailto:robertkoch117@gmail.com) [![Outlook](https://img.shields.io/badge/-rkoch117@outlook.com.br-0078D4?&logo=microsoft%20outlook&logoColor=FFFFFF&link=mailto:rkoch117@outlook.com.br)](mailto:rkoch117@outlook.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-koch-rj117/)](https://www.linkedin.com/in/robert-koch-rj117/) [![Gmail](https://img.shields.io/badge/-robertkoch117@gmail.com-EA4335?&logo=gmail&logoColor=FFFFFF&link=mailto:robertkoch117@gmail.com)](mailto:robertkoch117@gmail.com) [![Outlook](https://img.shields.io/badge/-rkoch117@outlook.com.br-0078D4?&logo=microsoft%20outlook&logoColor=FFFFFF&link=mailto:rkoch117@outlook.com)](mailto:rkoch117@outlook.com)
