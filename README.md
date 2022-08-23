@@ -21,7 +21,7 @@
 
 ### :zap: Habilidades:
 
-![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=FFFFFF) ![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=php&logoColor=FFFFFF) ![C](https://img.shields.io/badge/-Language%20C-A8B9CC?&logo=C&logoColor=FFFFFF) ![C++](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/-C%20sharp-239120?&logo=c%20sharp&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=FFFFFF) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=javascript&logoColor=000000) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=php&logoColor=FFFFFF) ![C](https://img.shields.io/badge/-Language%20C-A8B9CC?&logo=C&logoColor=FFFFFF) ![C++](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/-C%20sharp-239120?&logo=c%20sharp&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=FFFFFF) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=javascript&logoColor=000000) 
 
 ### 📦 Databases:
 
