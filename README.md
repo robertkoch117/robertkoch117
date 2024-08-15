@@ -7,7 +7,7 @@
 
 * :pushpin: Do Rio de Janeiro, Brasil.
 
-* :mortar_board: Sou graduado em Ciência da Computação e possuo certificações de **Cursos Online** diversos.
+* :mortar_board: Sou graduado em Ciência da Computação e possuo diversas certificações de **Cursos Profissionalizantes Online**.
 
 
 * :computer: Pesquisas: [**Desenvolvimento De Um Sistema De Computador Para Controle De Acesso Utilizando Reconhecimento Facial Para Ambientes Virtuais**](https://drive.google.com/file/d/1H_PiiDfDImIXIITSkZNfgZ40AHEfzsfu/view?usp=sharing), desenvolvido totalmente em **Java**.
